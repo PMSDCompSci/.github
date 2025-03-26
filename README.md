@@ -11,8 +11,8 @@ PMSDCompSci is a computer science club at Pocono Mountain East High School focus
 
 ## Management Contact
 
-* [Lily Lord](mailto:312408%40students.pmsd.org?subject=Your%20Subject&body=Body%20text) - Club Founder, GitHub Company Manager
-* [Mr. Ryan](mailto:dryan%40pmsd.org?subject=Your%20Subject&body=Body%20text) - Club Supervisor
+* [Lily Lord](mailto:312408@students.pmsd.org?subject=Your%20Subject&ampbody=Body%20text) - Club Founder, GitHub Company Manager
+* [Mr. Ryan](mailto:dryan@pmsd.org?subject=Your%20Subject&ampbody=Body%20text) - Club Supervisor
 
 ## How It Works
 
